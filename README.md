@@ -2,8 +2,6 @@
 <h1 align="center">Hi 👋, I'm Inna Manush</h1>
 <h3 align="center">A junior front-end developer from Ukraine.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vorojkainna&label=Profile%20views&color=0e75b6&style=flat" alt="vorojkainna" /> </p>
-
 - 🌱 I’m currently learning **JavaScript/TypeScript(React.js/Next.js)**
 
 - 📫 How to reach me **manush.inna@gmail.com**
