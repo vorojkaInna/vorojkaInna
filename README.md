@@ -1,4 +1,4 @@
-[![MasterHead](https://64.media.tumblr.com/c43a89ef21f6196ac05667cb457421ab/410ae5ca4f5fdd26-f3/s1280x1920/a4be11ca475fbe91aadcdde9511f4a72b60163e1.gifv)]()
+[![MasterHead](https://64.media.tumblr.com/fda37695a12fcba34e61da18465d6eae/46a26992eadcf8df-cc/s2048x3072/029c0ab3d2f007a605697ff748c73e62642181ef.gifv)]()
 <h1 align="center">Hi 👋, I'm Inna Manush</h1>
 <h3 align="center">A junior front-end developer from Ukraine.</h3>
 
